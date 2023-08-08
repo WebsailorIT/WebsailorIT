@@ -1,6 +1,6 @@
 ### Hi there 👋, Web Sailor IT
 #### A Creative Digital Agency
-![A Creative Digital Agency](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/366223627_143241975484811_326869934832867661_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=2LgkeoprzgEAX_bifS6&_nc_ht=scontent.fdac31-1.fna&oh=00_AfB-ZvgBgYrvVVaY-rdcUw9SN4A2tv8wjElQi8THF9E7xg&oe=64D6ACC7)
+<img src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/366223627_143241975484811_326869934832867661_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=2LgkeoprzgEAX_bifS6&_nc_ht=scontent.fdac31-1.fna&oh=00_AfB-ZvgBgYrvVVaY-rdcUw9SN4A2tv8wjElQi8THF9E7xg&oe=64D6ACC7" style="width:100%;">
 
 Welcome to Web Sailor IT, a Digital agency dedicated to helping businesses of all sizes succeed online. At Web Sailor IT, we believe in the power of collaboration. We understand our customer's needs. Our customer's needs are at the center of our business.
 
